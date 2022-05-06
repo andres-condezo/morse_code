@@ -38,6 +38,7 @@ def decode_word(word)
     decode_char(single)
   end.join
 end
+
 def decode(string)
   string.split(/   /).map do |single|
     decode_word(single)
