@@ -31,7 +31,7 @@ $ `cd morse_code`
 
 ## Authors
 
-|    👤    | Lucas Bonnefon**                                               |
+|    👤    | **Lucas Bonnefon**                                               |
 | ------------ | ---------------------------------------------------- |
 | **GitHub**   | [@Lucas Bonnefon](https://github.com/ryxtor)         |
 | **Twitter**  | [@@Lucas Bonnefon](https://twitter.com/ryxtor)        |
