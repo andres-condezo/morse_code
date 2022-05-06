@@ -32,3 +32,17 @@ def decode_char(morse_char)
 end
 
 puts decode_char '.-'
+
+def decode_word(word)
+  word.split(/ /).map do |single|
+    decode_char(single)
+  end.join
+end
+def decode(string)
+  string.split(/   /).map do |single|
+    decode_word(single)
+  end.join(' ')
+end
+puts decode_word('-- -.--')
+puts decode('-- -.--   -. .- -- .')
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
