@@ -25,16 +25,19 @@
 
 - Clone the repository:
 
-$ `git clone https://github.com/andres-condezo/morse_code.git`
+```
+git clone https://github.com/andres-condezo/morse_code.git
+cd morse_code
+```
 
-$ `cd morse_code`
+
 
 ## Authors
 
 |    👤    | **Lucas Bonnefon**                                               |
 | ------------ | ---------------------------------------------------- |
 | **GitHub**   | [@Lucas Bonnefon](https://github.com/ryxtor)         |
-| **Twitter**  | [@@Lucas Bonnefon](https://twitter.com/ryxtor)        |
+| **Twitter**  | [@Lucas Bonnefon](https://twitter.com/ryxtor)        |
 | **LinkedIn** | [Lucas Bonnefon](https://www.linkedin.com/in/lucasbonnefon/)|
 
 |    👤    | **Andres Condezo**                                               |
